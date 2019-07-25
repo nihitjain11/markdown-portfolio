@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Nihit Jain
+
+## Welcome to my portfolio!
